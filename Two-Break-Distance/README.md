@@ -1,0 +1,1 @@
+This problem invovles taking in two strings representing genomes. Using those genomes we attempt to transform one into the other through swapping two segments of the genome. The end result of this would be the number of operations it took to transform one genome into the other.
